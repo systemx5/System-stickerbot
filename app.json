@@ -7,9 +7,9 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/breakdowns",
-    "website": "https://github.com/breakdowns",
-    "success_url": "https://t.me/SlamDevs",
+    "repository": "https://github.com/systemx5/System-stickerbot",
+    "website": "https://github.com/systemx5/System-stickerbot",
+    "success_url": "https://t.me/BLACKx_GOD",
     "stack": "container",
     "env": {
       "TOKEN": {
